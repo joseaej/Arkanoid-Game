@@ -10,8 +10,6 @@ Arkanoid 2D es un clon del clásico juego de arcade donde los jugadores controla
 - Físicas realistas de la pelota.
 - Diferentes tipos de bloques con propiedades especiales.
 - Sistema de puntuación.
-- Niveles progresivos.
-- Efectos de sonido y gráficos pixel-art.
 
 ## Tecnologías utilizadas
 
@@ -19,7 +17,6 @@ Arkanoid 2D es un clon del clásico juego de arcade donde los jugadores controla
 - Lenguaje: C#
 - Físicas: Unity Physics 2D
 - Gráficos: Sprites en 2D
-- Audio: Archivos WAV/MP3 para efectos de sonido
 
 ## Instalación y uso
 
