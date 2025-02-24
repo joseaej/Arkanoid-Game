@@ -23,7 +23,7 @@ Arkanoid 2D es un clon del clásico juego de arcade donde los jugadores controla
 1. Clona este repositorio:
 
    ```bash
-   git clone [https://github.com/usuario/arkanoid-unity.git](https://github.com/usuario/arkanoid-unity.git)
+   git clone https://github.com/joseaej/Arkanoid-Game
    ```
    Abre el proyecto con Unity (versión recomendada 2021.3 o superior).
 
